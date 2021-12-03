@@ -35,10 +35,7 @@ You can click the Preview link to take a look at your changes.
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/python.svg" width="40"/>
-      </a>
-      <br>Python
+
     </td>
     <td align="center" width="96">
       <a>
@@ -47,10 +44,7 @@ You can click the Preview link to take a look at your changes.
       <br>PHP
     </td>
     <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/c.svg" width="40"/>
-      </a>
-      <br>C
+
     </td>
   </tr>
 </table>
@@ -60,10 +54,7 @@ You can click the Preview link to take a look at your changes.
 <table>
   <tr>
     <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/react.svg" width="40"/>
-      </a>
-      <br>React
+
     </td>
     <td align="center" width="96">
       <a>
@@ -72,10 +63,7 @@ You can click the Preview link to take a look at your changes.
       <br>NodeJS
     </td>
     <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/electron.svg" width="40"/>
-      </a>
-      <br>Electron
+
     </td>
     <td align="center" width="96">
       <a>
@@ -103,10 +91,7 @@ You can click the Preview link to take a look at your changes.
       <br>CSS
     </td>
     <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/sass.svg" width="40"/>
-      </a>
-      <br>SASS
+
     </td>
     <td align="center" width="96">
       <a>
@@ -117,30 +102,6 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
-**Graphic Tools**
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/illustrator.svg" width="40"/>
-      </a>
-      <br>Illustrator
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/photoshop.svg" width="40"/>
-      </a>
-      <br>Photoshop
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/figma.svg" width="30"/>
-      </a>
-      <br>Figma
-    </td>
-  </tr>
-</table>
 
 **Other Tools**
 
