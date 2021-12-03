@@ -10,11 +10,10 @@ You can click the Preview link to take a look at your changes.
 
 ## 🤵 About_Me
 
-- 🌱 I'm currently learning front-end development
+- 🌱 I'm currently software tester but still learning a lot including front-end and back-end development
 - 🤔 I use daily `.js`,` .html`, `.sass`/`.css`
 - 📝 I write articles on ...
-- 💬 Talk to me about Technology, Space and Politics
-- 👯 I’m looking to collaborate on Web development
+- 💬 Talk to me about Technology, Music, Travel
 
 ## 🌍 Lets_Connect_On
 
@@ -29,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 <table>
 <tbody>
 <tr>
-<td align="center" width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40" /> </a> <br />JavaScript</td>
+<td align="center" width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/java.svg" width="40" /> </a> <br />Java</td>
 <td align="center" width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/php.svg" width="40" /> </a> <br />PHP</td>
 </tr>
 </tbody>
