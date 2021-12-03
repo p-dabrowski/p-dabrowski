@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi, I'm @p-dabrowski 👋
 
-![Profile Banner](https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/images/github-profile-banner.png)
+![Profile Banner](https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/images/github-profile-bannerXXXXXX.png)
 
 ## 🤵 About_Me
 
