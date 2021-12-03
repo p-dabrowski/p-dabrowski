@@ -20,12 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🌍 Lets_Connect_On
 
-- [Twitter - @pk_kulhari](https://twitter.com/pk_kulhari)
-- [Linkedin](https://www.linkedin.com/in/pkkulhari)
-- [Instagram - @pk_kulhari](https://www.instagram.com/pk_kulhari/)
-- [Hashnode - @pkkulhari](https://hashnode.com/@pkkulhari)
-- [Figma - @pkkulhari]()
-- [Codepen - @pkkulhari](https://codepen.io/pkkulhari)
+- [Linkedin](https://www.linkedin.com/in/pd)
 
 ## 🚀 My_Skills
 
@@ -174,13 +169,6 @@ You can click the Preview link to take a look at your changes.
   </tr>
 </table>
 
-## 📝 Recent_Blog_Posts
-
-- [Authorize Git Operations Using Personal Access Token](https://indietutes.com/authorize-git-operations-using-personal-access-token)
-
-- [21 HTML Best Practices for Writing Maintainable and Scalable Document](https://indietutes.com/html-best-practices)
-
-- [7 Git Commands with Examples](https://indietutes.com/git-commands)
 
 ## 📈 Github_Stats
 
