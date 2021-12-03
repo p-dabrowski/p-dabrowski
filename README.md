@@ -38,80 +38,37 @@ You can click the Preview link to take a look at your changes.
 **Frameworks & Libraries**
 
 <table>
-  <tr>
-    <td align="center" width="96">
-
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40"/>
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40"/>
-      </a>
-      <br>Bootstrap
-    </td>
-  </tr>
+<tbody>
+<tr>
+<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40" /> </a> <br />NodeJS</td>
+<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40" /> </a> <br />Bootstrap</td>
+</tr>
+</tbody>
 </table>
 
 **Markup & Stylesheet**
 
 <table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/html.svg" width="40"/>
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40"/>
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/markdown.svg" width="40"/>
-      </a>
-      <br>Markdown
-    </td>
-  </tr>
+<tbody>
+<tr>
+<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/html.svg" width="40" /> </a> <br />HTML</td>
+<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40" /> </a> <br />CSS</td>
+<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/markdown.svg" width="40" /> </a> <br />Markdown</td>
+</tr>
+</tbody>
 </table>
 
 
 **Other Tools**
 
 <table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/gulp.svg" width="25"/>
-      </a>
-      <br>Gulp
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/webpack.svg" width="40"/>
-      </a>
-      <br>Webpack
-    </td>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/git.svg" width="40"/>
-      </a>
-      <br>Git
-    </td>
-  </tr>
+<tbody>
+<tr>
+<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/gulp.svg" width="25" /> </a> <br />Gulp</td>
+<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/webpack.svg" width="40" /> </a> <br />Webpack</td>
+<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/git.svg" width="40" /> </a> <br />Git</td>
+</tr>
+</tbody>
 </table>
 
 
