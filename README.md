@@ -27,21 +27,12 @@ You can click the Preview link to take a look at your changes.
 **Programming Languages**
 
 <table>
-  <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40"/>
-      </a>
-      <br>JavaScript
-    </td>
-
-    <td align="center" width="96">
-      <a>
-        <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/php.svg" width="40"/>
-      </a>
-      <br>PHP
-    </td>
-  </tr>
+<tbody>
+<tr>
+<td align="center" width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/js.svg" width="40" /> </a> <br />JavaScript</td>
+<td align="center" width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/php.svg" width="40" /> </a> <br />PHP</td>
+</tr>
+</tbody>
 </table>
 
 **Frameworks & Libraries**
