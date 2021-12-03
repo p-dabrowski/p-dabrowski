@@ -34,18 +34,14 @@ You can click the Preview link to take a look at your changes.
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="96">
 
-    </td>
     <td align="center" width="96">
       <a>
         <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/php.svg" width="40"/>
       </a>
       <br>PHP
     </td>
-    <td align="center" width="96">
 
-    </td>
   </tr>
 </table>
 
