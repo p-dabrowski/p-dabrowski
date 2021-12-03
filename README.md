@@ -64,8 +64,6 @@ You can click the Preview link to take a look at your changes.
 <table>
 <tbody>
 <tr>
-<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/gulp.svg" width="25" /> </a> <br />Gulp</td>
-<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/webpack.svg" width="40" /> </a> <br />Webpack</td>
 <td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/git.svg" width="40" /> </a> <br />Git</td>
 </tr>
 </tbody>
