@@ -73,6 +73,7 @@ You can click the Preview link to take a look at your changes.
 <tbody>
 <tr>
 <td width="96"><a> <img src="./icons/apachejmeter-svgrepo-com.svg" width="40" /> </a> <br />Jmeter</td>
+<td width="96"><a> <img src="./icons/postman-svgrepo-com.svg" width="40" /> </a> <br />Postman</td>
 <td width="96"><a> <img src="./icons/jira-svgrepo-com.svg" width="40" /> </a> <br />Jira (incl. management), Target Process</td>
 <td width="96"><a> <img src="./icons/git-svgrepo-com.svg" width="40" /> </a> <br />Git</td>
 <td width="96"><a> <img src="./icons/docker-svgrepo-com.svg" width="40" /> </a> <br />Docker</td>
