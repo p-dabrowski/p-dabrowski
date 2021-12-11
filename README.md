@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 ## 🤵 About_Me
 
 - 🌱 I'm currently software tester but still learning a lot including front-end and back-end development
-- 🤔 I use daily `.js`,` .html`, `.sass`/`.css`
-- 📝 I write articles on ...
+- 🤔 I perform manual and automation tests using JAVA, Serenity, Rest-Assured, Selenium Webdriver
+- 📝 I know BDD frameworks like Cucumber and behat (for PHP)
 - 💬 Talk to me about Technology, Music, Travel
 
 ## 🌍 Lets_Connect_On
@@ -39,8 +39,12 @@ You can click the Preview link to take a look at your changes.
 <table>
 <tbody>
 <tr>
-<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40" /> </a> <br />NodeJS</td>
-<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40" /> </a> <br />Bootstrap</td>
+<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40" /> </a> <br />Selenium Webdriver</td>
+  <td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40" /> </a> <br />Serenity</td>
+  <td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40" /> </a> <br />Cucumber</td>
+<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40" /> </a> <br />Page-Object-Pattern</td>
+<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40" /> </a> <br />Codeception</td>
+<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40" /> </a> <br />Selenium IDE</td>
 </tr>
 </tbody>
 </table>
@@ -63,7 +67,8 @@ You can click the Preview link to take a look at your changes.
 <table>
 <tbody>
 <tr>
-<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/git.svg" width="40" /> </a> <br />Git</td>
+<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/git.svg" width="40" /> </a> <br />Git, Jira (incl. management), Target Process</td>
+  
 </tr>
 </tbody>
 </table>
