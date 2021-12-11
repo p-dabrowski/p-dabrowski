@@ -41,6 +41,7 @@ You can click the Preview link to take a look at your changes.
 <tbody>
 <tr>
 <td width="96"><a> <img src="./icons/selenium-svgrepo-com.svg" width="40" /> </a> <br />Selenium Webdriver</td>
+<td width="96"><a> <img src="./icons/junit.png" width="40" /> </a> <br />JUnit</td>
 <td width="96"><a> <img src="./icons/serenity.png" width="40" /> </a> <br />Serenity</td>
 <td width="96"><a> <img src="./icons/cucumber.png" width="40" /> </a> <br />Cucumber</td>
 <td width="96"><a> <img src="./icons/-svgrepo-com.svg" width="40" /> </a> <br />Page-Object-Pattern</td>
