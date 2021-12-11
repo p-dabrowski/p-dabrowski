@@ -72,9 +72,12 @@ You can click the Preview link to take a look at your changes.
 <table>
 <tbody>
 <tr>
+<td width="96"><a> <img src="./icons/apachejmeter-svgrepo-com.svg" width="40" /> </a> <br />Jmeter</td>
 <td width="96"><a> <img src="./icons/jira-svgrepo-com.svg" width="40" /> </a> <br />Jira (incl. management), Target Process</td>
 <td width="96"><a> <img src="./icons/git-svgrepo-com.svg" width="40" /> </a> <br />Git</td>
 <td width="96"><a> <img src="./icons/docker-svgrepo-com.svg" width="40" /> </a> <br />Docker</td>
+<td width="96"><a> <img src="./icons/mongodb-svgrepo-com.svg" width="40" /> </a> <br />MongoDB</td>
+<td width="96"><a> <img src="./icons/sql-svgrepo-com.svg" width="40" /> </a> <br />SQL</td>
 <td width="96"><a> <img src="./icons/robot-svgrepo-com.svg" width="40" /> </a> <br />UiPath</td>
 </tr>
 </tbody>
