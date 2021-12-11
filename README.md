@@ -29,8 +29,8 @@ You can click the Preview link to take a look at your changes.
 <table>
 <tbody>
 <tr>
-<td align="center" width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/java.svg" width="40" /> </a> <br />Java</td>
-<td align="center" width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/php.svg" width="40" /> </a> <br />PHP</td>
+<td align="center" width="96"><a> <img src="./icons/java-svgrepo-com.svg" width="40" /> </a> <br />Java</td>
+<td align="center" width="96"><a> <img src="./icons/php-svgrepo-com.svg" width="40" /> </a> <br />PHP</td>
 </tr>
 </tbody>
 </table>
@@ -40,12 +40,12 @@ You can click the Preview link to take a look at your changes.
 <table>
 <tbody>
 <tr>
-<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40" /> </a> <br />Selenium Webdriver</td>
-  <td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40" /> </a> <br />Serenity</td>
-  <td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40" /> </a> <br />Cucumber</td>
-<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/nodejs.svg" width="40" /> </a> <br />Page-Object-Pattern</td>
-<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40" /> </a> <br />Codeception</td>
-<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/bootstrap.svg" width="40" /> </a> <br />Selenium IDE</td>
+<td width="96"><a> <img src="./icons/selenium-svgrepo-com.svg" width="40" /> </a> <br />Selenium Webdriver</td>
+<td width="96"><a> <img src="./icons/-svgrepo-com.svg" width="40" /> </a> <br />Serenity</td>
+<td width="96"><a> <img src="./icons/-svgrepo-com.svg" width="40" /> </a> <br />Cucumber</td>
+<td width="96"><a> <img src="./icons/-svgrepo-com.svg" width="40" /> </a> <br />Page-Object-Pattern</td>
+<td width="96"><a> <img src="./icons/codeception-svgrepo-com.svg" width="40" /> </a> <br />Codeception</td>
+<td width="96"><a> <img src="./icons/selenium-svgrepo-com.svg" width="40" /> </a> <br />Selenium IDE</td>
 </tr>
 </tbody>
 </table>
@@ -55,9 +55,8 @@ You can click the Preview link to take a look at your changes.
 <table>
 <tbody>
 <tr>
-<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/html.svg" width="40" /> </a> <br />HTML</td>
-<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/css.svg" width="40" /> </a> <br />CSS</td>
-<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/markdown.svg" width="40" /> </a> <br />Markdown</td>
+<td width="96"><a> <img src="./icons/html-svgrepo-com.svg" width="40" /> </a> <br />HTML</td>
+<td width="96"><a> <img src="./icons/css-svgrepo-com.svg" width="40" /> </a> <br />CSS</td>
 </tr>
 </tbody>
 </table>
@@ -68,8 +67,10 @@ You can click the Preview link to take a look at your changes.
 <table>
 <tbody>
 <tr>
-<td width="96"><a> <img src="https://raw.githubusercontent.com/pkkulhari/pkkulhari/master/icons/git.svg" width="40" /> </a> <br />Git, Jira (incl. management), Target Process</td>
-  
+<td width="96"><a> <img src="./icons/jira-svgrepo-com.svg" width="40" /> </a> <br />Jira (incl. management), Target Process</td>
+<td width="96"><a> <img src="./icons/git-svgrepo-com.svg" width="40" /> </a> <br />Git</td>
+<td width="96"><a> <img src="./icons/docker-svgrepo-com.svg" width="40" /> </a> <br />Docker</td>
+<td width="96"><a> <img src="./icons/robot-svgrepo-com.svg" width="40" /> </a> <br />UiPath</td>
 </tr>
 </tbody>
 </table>
