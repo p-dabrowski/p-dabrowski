@@ -24,6 +24,10 @@ You can click the Preview link to take a look at your changes.
 
 ## 🚀 My_Skills
 
+**Manual and automated tests**
+
+**API tests**
+
 **Programming Languages**
 
 <table>
