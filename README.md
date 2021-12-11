@@ -24,8 +24,6 @@ You can click the Preview link to take a look at your changes.
 
 ## 🚀 My_Skills
 
-> _Tools, languages, and other things that I like to work with_
-
 **Programming Languages**
 
 <table>
