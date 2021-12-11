@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 # Hi, I'm Przemysław Dąbrowski 👋
 
-![Profile Banner](https://raw.githubusercontent.com/p-dabrowski/p-dabrowski/master/images/github-profile-bannerXXXXXX.png)
+![Profile Banner](./banner.jpg)
 
 ## 🤵 About_Me
 
